@@ -173,3 +173,5 @@ public class MainActivity extends AppCompatActivity {
         return "Tim was here";
     }
 }
+
+// This is a comment to test the Git pull process from Android Studio
